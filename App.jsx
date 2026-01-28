@@ -5,6 +5,7 @@ import Dashboard from "./pages/Dashboard";
 import Products from "./pages/Products";
 import { useAuth } from "./hooks/useAuth";
 
+
 export default function App() {
   const auth = useAuth();
 
