@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { getProductsByCategory } from "../services/productService";
-import ProductCard from "../components/ProductCard";
+import ProductCard from "../components/ProductGallery";
 import React from "react";
 
 
